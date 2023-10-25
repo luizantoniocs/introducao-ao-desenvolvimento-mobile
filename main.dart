@@ -19,6 +19,6 @@ void main() {
   } else if (idade >= 18 && idade <= 60) {
     print('é adulto');
   } else {
-    print('é idoso');
+    print('é ido so');
   }
 }
